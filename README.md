@@ -4,7 +4,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
-      width="355"
+      width="255"
       style="position: relative; top: 300; left: 300;"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
@@ -31,10 +31,10 @@
 
   <p align="left">
   <a href = "mailto: georgelibatique819@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img width="12" />
+ <img width="12" />
   <a href="https://www.linkedin.com/in/george-libatique-45b0a719b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
-   <img width="12" />
+ <img width="12" />
 
 
 <!-- <h1>My Tech Stack</h1>
