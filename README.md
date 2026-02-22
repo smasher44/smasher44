@@ -1,11 +1,11 @@
 
 
-# Hi, I'm George Libatique <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi, I'm George Libatique 
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
       width="255"
-      style="position: relative; top: 300; left: 300;"
+      style="position: relative; top: 100; left: 300;"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
