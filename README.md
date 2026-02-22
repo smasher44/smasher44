@@ -5,7 +5,7 @@
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
       width="255"
-      style="position: relative; top: 100; left: 300;"
+      style="position: relative; top: 300; left: 300;"
       align="right"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
