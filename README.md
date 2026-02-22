@@ -37,7 +37,7 @@
    <img width="12" />
 
 
-<h1>My Tech Stack</h1>
+<!-- <h1>My Tech Stack</h1>
 <div style="display: inline_block">
 <h5 align="left">Frontend Development</h5>
 <p align="left">
@@ -84,4 +84,4 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </p>
-</div>
+</div> -->
