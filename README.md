@@ -1,6 +1,6 @@
 
 
-<!-- ## Hi, I'm George Libatique -->
+## Hi, I'm a Full-Stack Developer
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
