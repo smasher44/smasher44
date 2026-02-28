@@ -17,10 +17,10 @@
     Full Stack Mobile Developer. 
    </li>
   <li>
-    Engineer by training, web developer by passion.  
+    Engineer by profession, developer by interest.  
   </li>
   <li>
-    Developing websites since 2021.    
+    Developing scalabale apps since 2021.    
   </li>
   <li>
    I love coffee, hot or cold especially without sugar.
