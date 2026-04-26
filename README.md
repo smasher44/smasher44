@@ -14,7 +14,7 @@
 <ul>
    <img width="12" />
    <li>
-    Full Stack Mobile Developer. 
+    Senior Frontend & Mobile Engineer (React / React Native). 
    </li>
   <li>
     Engineer by profession, developer by interest.  
