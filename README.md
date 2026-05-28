@@ -20,7 +20,7 @@
     Engineer by profession, developer by interest.  
   </li>
   <li>
-    Developing scalabale apps since 2021.    
+    Developing scalable apps since 2021.    
   </li>
   <li>
    I love coffee, hot or cold especially without sugar.
