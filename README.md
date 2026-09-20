@@ -1,6 +1,6 @@
 
 
-## Hi, I'm a Senior Frontend & Mobile Engineer (React / React Native)
+## Hi, I'm a FullStack & Mobile Engineer | AI enthusiast
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
     <img
